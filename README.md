@@ -10,5 +10,5 @@ This project includes:
 * plot4.R
 * plot4.png
 
-[Link to Dataset](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
+[Click to download the zipped dataset](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip)
 
